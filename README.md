@@ -1,16 +1,16 @@
 ## GenAI RAG Based Q/A Application for custom data 
+![](https://i.postimg.cc/j2r7R46V/gen-ai.png)
 
-![](https://res.cloudinary.com/cognitives-s3/image/upload/c_limit,dpr_auto,f_auto,fl_lossy,h_1900,q_auto,w_1900/v1/cog-live/n/1271/2023/Jan/30/XJjQaSivFeb8luqCBLAO.jpg)
 
 
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
+  * [Application Screenshot](application-screenshot)
   * [Steps in project development](#steps-in-project-development)
   * [Technical Stack](#technical-stack)
   * [Installation](#installation)
   * [Steps in using the application](#steps-in-using-the-application)
-
 
 
 ### Overview 
@@ -22,7 +22,8 @@ Customized Information Retrieval: Addressing the need for tailored solutions, th
 
 Enhanced User Interaction: Motivated by a desire to elevate user experience, we leverage state-of-the-art Generative AI to create an application that responds contextually, providing a more natural and engaging interaction.
 
-
+### Application Screenshot
+![](https://i.postimg.cc/XJNvL1gY/genai-app.png)
 
 ### Steps in project development
 
@@ -57,4 +58,4 @@ Enhanced User Interaction: Motivated by a desire to elevate user experience, we 
 - Click on 'Add data'
 - Enter the relevent questions & get the answers
 
-
+![](https://res.cloudinary.com/cognitives-s3/image/upload/c_limit,dpr_auto,f_auto,fl_lossy,h_1900,q_auto,w_1900/v1/cog-live/n/1271/2023/Jan/30/XJjQaSivFeb8luqCBLAO.jpg)
