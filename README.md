@@ -6,10 +6,10 @@
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Demo](#demo)
   * [Steps in project development](#steps-in-project-development)
   * [Technical Stack](#technical-stack)
   * [Installation](#installation)
+  * [Steps in using the application](#steps-in-using-the-application)
 
 
 
@@ -22,14 +22,6 @@ Customized Information Retrieval: Addressing the need for tailored solutions, th
 
 Enhanced User Interaction: Motivated by a desire to elevate user experience, we leverage state-of-the-art Generative AI to create an application that responds contextually, providing a more natural and engaging interaction.
 
-
-
-### Demo
-[Visit this link for live demo of the web application](https://concretstrength7.herokuapp.com/)
-
-Web application Snapshot:
-
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/webapp_snapshot.png" width=600>
 
 
 ### Steps in project development
@@ -57,5 +49,12 @@ Web application Snapshot:
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using pip install -r requirements.txt
 - Execute the command: streamlit run app.py
+
+### Steps in using the application
+- Enter the OpenAI Key
+- Add the custom data
+- Optional inputs- Chunk Size & K
+- Click on 'Add data'
+- Enter the relevent questions & get the answers
 
 
