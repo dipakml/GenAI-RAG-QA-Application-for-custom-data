@@ -1,6 +1,7 @@
 ## GenAI RAG Based Q/A Application for custom data 
 
-<img target="_blank" src="https://github.com/dipakml/GenAI-RAG-QA-Application-for-custom-data/main/img.png" width=800>
+![](https://res.cloudinary.com/cognitives-s3/image/upload/c_limit,dpr_auto,f_auto,fl_lossy,h_1900,q_auto,w_1900/v1/cog-live/n/1271/2023/Jan/30/XJjQaSivFeb8luqCBLAO.jpg)
+
 
 ### Table of Content
   * [Overview](#overview)
