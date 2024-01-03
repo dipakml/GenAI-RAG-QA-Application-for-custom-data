@@ -1,6 +1,6 @@
 ## GenAI RAG Based Q/A Application for custom data 
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/concrete.png" width=800>
+<img target="_blank" src="https://github.com/dipakml/GenAI-RAG-QA-Application-for-custom-data/main/img.png" width=800>
 
 ### Table of Content
   * [Overview](#overview)
