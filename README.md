@@ -6,10 +6,9 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Demo](#demo)
-  * [Steps in project execution](#steps)
+  * [Steps in project development](#steps-in-project-development)
   * [Technical Stack](#technical-stack)
   * [Installation](#installation)
-  * [Note](#note)
 
 
 
